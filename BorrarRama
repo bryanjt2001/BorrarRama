@@ -1,0 +1,22 @@
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectorama>git branch rama_temporal
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectorama>git checkout rama_temporal
+Switched to branch 'rama_temporal'
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectorama>git checkout master
+Switched to branch 'master'
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectorama>git branch
+* master
+  pruebas
+  rama_temporal
+  ramanuevaV2
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectorama>git branch -d rama_temporal
+Deleted branch rama_temporal (was eb62a91).
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectorama>git branch
+* master
+  pruebas
+  ramanuevaV2
